@@ -1,0 +1,10 @@
+test:
+  route: '/test/assets/test_funcs.js@returnFn'
+other:
+  route: '/test/assets/test_funcs.js@returnFn'
+this:
+  is:
+    super:
+      deep:
+        and:
+          stuff: '/test/assets/test_funcs.js@returnFn'
