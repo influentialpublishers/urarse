@@ -23,7 +23,8 @@
   "dependencies": {
     "must": "^0.13.2",
     "object-path": "^0.11.2",
-    "ramda": "^0.22.1"
+    "ramda": "^0.22.1",
+    "yamljs": "^0.2.8"
   },
   "devDependencies": {
     "chai": "^3.5.0",
